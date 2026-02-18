@@ -22,9 +22,7 @@ A Python project that scrapes remote job listings from [RemoteOK.com](https://re
 │   ├── analysis.py         # Job data analysis
 │   └── notification.py     # Discord webhook notifications
 ├── entity/
-│   └── config.py           # Configuration (URLs, categories, limits)
-├── notebook/
-│   └── TEAM_A.ipynb        # Jupyter notebook (exploratory)
+│   └── config.py           # Configuration (URLs, categories, limits)  
 └── .github/workflows/
     └── daily_scrape.yaml   # Daily scheduled scraping
 ```
